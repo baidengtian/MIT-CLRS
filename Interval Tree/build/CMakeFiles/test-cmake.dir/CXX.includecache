@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../Inc/RedBlackTree.h
+iostream
+-
+string
+-
+vector
+-
+
+C:/Users/15581/Desktop/Interval Tree/Src/main.cpp
+iostream
+-
+RedBlackTree.h
+-
+climits
+-
+

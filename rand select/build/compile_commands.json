@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/15581/Desktop/MIT CLRS/rand select/build",
+  "command": "C:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe   @CMakeFiles/test-cmake.dir/includes_CXX.rsp -g   -std=gnu++1z -o CMakeFiles\\test-cmake.dir\\Src\\Random.cpp.obj -c \"C:\\Users\\15581\\Desktop\\MIT CLRS\\rand select\\Src\\Random.cpp\"",
+  "file": "C:/Users/15581/Desktop/MIT CLRS/rand select/Src/Random.cpp"
+},
+{
+  "directory": "C:/Users/15581/Desktop/MIT CLRS/rand select/build",
+  "command": "C:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe   @CMakeFiles/test-cmake.dir/includes_CXX.rsp -g   -std=gnu++1z -o CMakeFiles\\test-cmake.dir\\Src\\main.cpp.obj -c \"C:\\Users\\15581\\Desktop\\MIT CLRS\\rand select\\Src\\main.cpp\"",
+  "file": "C:/Users/15581/Desktop/MIT CLRS/rand select/Src/main.cpp"
+}
+]

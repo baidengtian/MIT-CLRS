@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../Inc/Random.h
+
+C:/Users/15581/Desktop/MIT CLRS/rand select/Src/Random.cpp
+Random.h
+C:/Users/15581/Desktop/MIT CLRS/rand select/Src/Random.h
+
+C:/Users/15581/Desktop/MIT CLRS/rand select/Src/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+Random.h
+C:/Users/15581/Desktop/MIT CLRS/rand select/Src/Random.h
+

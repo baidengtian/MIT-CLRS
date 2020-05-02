@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../Inc/List.h
+Random.h
+../Inc/Random.h
+iostream
+-
+algorithm
+-
+
+../Inc/Random.h
+
+C:/Users/15581/Desktop/skip lists/Src/Random.cpp
+Random.h
+C:/Users/15581/Desktop/skip lists/Src/Random.h
+
+C:/Users/15581/Desktop/skip lists/Src/main.cpp
+iostream
+-
+List.h
+C:/Users/15581/Desktop/skip lists/Src/List.h
+Random.h
+C:/Users/15581/Desktop/skip lists/Src/Random.h
+
